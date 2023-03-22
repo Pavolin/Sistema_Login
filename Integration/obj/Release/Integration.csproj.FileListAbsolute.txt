@@ -1,0 +1,10 @@
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\bin\Release\Integration.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\bin\Release\Integration.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\bin\Release\Newtonsoft.Json.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\bin\Release\Utils.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\bin\Release\Utils.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\obj\Release\Integration.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\obj\Release\Integration.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\obj\Release\Integration.csproj.CopyComplete
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\obj\Release\Integration.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Integration\obj\Release\Integration.pdb

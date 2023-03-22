@@ -1,0 +1,14 @@
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\SistemLogin.exe.config
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\SistemLogin.exe
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\SistemLogin.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\API.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\Integration.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\Integration.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\API.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\obj\Debug\SistemLogin.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\obj\Debug\SistemLogin.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\obj\Debug\SistemLogin.csproj.CopyComplete
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\obj\Debug\SistemLogin.exe
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\obj\Debug\SistemLogin.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\Utils.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\SistemLogin\bin\Debug\Utils.pdb

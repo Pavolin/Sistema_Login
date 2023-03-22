@@ -1,0 +1,11 @@
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\API.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\API.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\Integration.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\Integration.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\obj\Debug\API.csproj.CopyComplete
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\obj\Debug\API.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\obj\Debug\API.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\Utils.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\WebServer\bin\Debug\Utils.pdb

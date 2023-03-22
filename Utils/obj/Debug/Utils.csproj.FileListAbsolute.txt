@@ -1,0 +1,6 @@
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\bin\Debug\Utils.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\bin\Debug\Utils.pdb
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\obj\Debug\Utils.dll
+C:\Users\gabriel.rodrigues_so\Documents\Documentos Gabriel\Projetos\Projeto_SistemaLogin\Utils\obj\Debug\Utils.pdb

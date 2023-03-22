@@ -1,0 +1,17 @@
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.pdb
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.pdb
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\Servidor\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\Servidor\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.pdb
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\Servidor\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\Servidor\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\Servidor\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.pdb
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\bin\Debug\COBGW.Utils.pdb
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.csproj.AssemblyReference.cache
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.dll
+C:\Users\gabriel.rodrigues_so\Desktop\Projetos_Desenvolvidos\Middleware\NovaVersao\cobgw\COBGW.Utils\obj\Debug\COBGW.Utils.pdb

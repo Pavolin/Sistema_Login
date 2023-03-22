@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{619F662A-9FFE-49C9-A968-1F8D758F80AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>API</RootNamespace>
+    <AssemblyName>API</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Integration\Integration.csproj">
+      <Project>{AD4C9853-604D-4CDD-8F23-808281C5B8A6}</Project>
+      <Name>Integration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{2C6C2547-FF08-4B5F-B187-47B533A55F0E}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arguments\ChangePassword\RequestChangePassword.cs" />
+    <Compile Include="Arguments\ChangePassword\ResponseChangePassword.cs" />
+    <Compile Include="Arguments\RecoverPassword\RequestRecoverPassword.cs" />
+    <Compile Include="Arguments\RecoverPassword\ResponseRecoverPassword.cs" />
+    <Compile Include="Arguments\ActiveAccount\RequestActiveAccount.cs" />
+    <Compile Include="Arguments\ActiveAccount\ResponseActiveAccount.cs" />
+    <Compile Include="Arguments\UnlockAccount\RequestUnlockAccount.cs" />
+    <Compile Include="Arguments\UnlockAccount\ResponseUnlockAccount.cs" />
+    <Compile Include="Arguments\BlockAccount\RequestBlockAccount.cs" />
+    <Compile Include="Arguments\BlockAccount\ResponseBlockAccount.cs" />
+    <Compile Include="Arguments\DeleteAccount\RequestDeleteAccount.cs" />
+    <Compile Include="Arguments\DeleteAccount\ResponseDeleteAccount.cs" />
+    <Compile Include="Arguments\ChangePermission\RequestChangePermission.cs" />
+    <Compile Include="Arguments\ChangePermission\ResponseChangePermission.cs" />
+    <Compile Include="Arguments\CreateTable\RequestCreateTable.cs" />
+    <Compile Include="Arguments\CreateTable\ResponseCreateTable.cs" />
+    <Compile Include="Arguments\GeneratorToken\RequestGeneratorToken.cs" />
+    <Compile Include="Arguments\GeneratorToken\ResponseGeneratorToken.cs" />
+    <Compile Include="Arguments\Login\RequestLogin.cs" />
+    <Compile Include="Arguments\Login\ResponseLogin.cs" />
+    <Compile Include="Arguments\RegisterUser\RequestRegisterUser.cs" />
+    <Compile Include="Arguments\RegisterUser\ResponseRegisterUser.cs" />
+    <Compile Include="Interfaces\IRequest.cs" />
+    <Compile Include="Interfaces\IResponse.cs" />
+    <Compile Include="Routes\IChangePassword.cs" />
+    <Compile Include="Routes\IRecoverPassword.cs" />
+    <Compile Include="Routes\IActiveAccount.cs" />
+    <Compile Include="Routes\IUnlockAccount.cs" />
+    <Compile Include="Routes\IBlockAccount.cs" />
+    <Compile Include="Routes\IDeleteAccount.cs" />
+    <Compile Include="Routes\IChangePermission.cs" />
+    <Compile Include="Routes\ICreateTable.cs" />
+    <Compile Include="Routes\IGeneratorToken.cs" />
+    <Compile Include="Routes\ILogin.cs" />
+    <Compile Include="Routes\IRegisterUser.cs" />
+    <Compile Include="Services\WebServer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Altitude.IntegrationServer.IDotNetApi, Version=8.5.1060.0, Culture=neutral, PublicKeyToken=afc2db3cd2d71f6f" />
+    <Reference Include="DocumentFormat.OpenXml, Version=2.12.3.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.12.3\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.20505.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
