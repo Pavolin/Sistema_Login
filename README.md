@@ -85,7 +85,7 @@ Desistale o serviço com o CMD
 
 Para rodar os testes, execute o SistemLogin.sln no visual Studio e executar os testes com as seguintes opções:
 
-![Run testes](https://ibb.co/khSYjc4)
+![Run testes](https://i.ibb.co/Wc2SZKk/download.png)
 
 Run all tests - ira rodar todos os testes 
 Debug all tests - ira rodar todos os testes com o retorno dos testes mais detalhado
